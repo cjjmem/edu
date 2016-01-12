@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+body, dd, dl, dt, form, h1, h2, h3, h4, h5, h6, input, li, p, ul, button {
+	margin: 0;
+	padding: 0;
+	border:0;
+	list-style: none;
+	vertical-align: middle
+}
+img {
+	border: 0;
+	margin: 0;
+	padding: 0
+}
+a{
+	color: #666666;
+	text-decoration: none;
+}
+body {
+	color: #000;
+	-webkit-user-select: none;
+	-webkit-text-size-adjust: none;
+	text-align: left;
+	font-family: "微软雅黑";
+	font-size: 14px;
+	font-style: normal;
+	line-height: 30px;
+	font-variant: normal;
+	background-color: #ffffff
+}
+input {
+	
+}
+input:focus {
+	
+}
